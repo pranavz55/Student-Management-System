@@ -1,5 +1,5 @@
 # Student-Management-System
-Student Management System is application based on PHP MYSQL.
+Student Management System is application based on PHP MYSQL.  
 Features:  
 1.Admin Panel  
 2.View Details With Student standard and Rollno  
